@@ -1,5 +1,3 @@
-package com;
-
 import java.util.Scanner;
 
 public class TemperatureConverterApp {
@@ -13,4 +11,3 @@ public class TemperatureConverterApp {
 	}
 
 }
-

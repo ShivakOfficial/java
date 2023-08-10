@@ -1,5 +1,3 @@
-package com;
-
 
 public class Powersq {
 	public static int squareNumber(int num){ 

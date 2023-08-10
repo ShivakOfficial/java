@@ -1,5 +1,3 @@
-package com;
-
 
 public class TemperatureConverter {
 	  public double convertFahrenheitToCelsius(double fahrenheit)

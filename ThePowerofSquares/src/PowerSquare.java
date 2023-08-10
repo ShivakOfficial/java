@@ -1,6 +1,3 @@
-package com;
-
-
 import java.util.Scanner;
 
 public class PowerSquare {
@@ -13,5 +10,3 @@ public class PowerSquare {
 	}
 	
 }
-
-
